@@ -1,2 +1,6 @@
-# hotel-management-system
-A web-based Hotel Management System designed to simplify hotel operations such as room management, bookings, guest details, and reservations. The project provides a user-friendly interface for managing hotel activities efficiently and digitally.
+## 🏨 Website Preview
+
+### Home Page
+![Hotel Abhiruchi - Home Page](./screenshot.png)
+
+> A modern hotel and food-ordering web interface featuring menu browsing, cart management, and order tracking.
